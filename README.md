@@ -7,8 +7,8 @@
 
 1. hi-im-vika
 2. JCslam14
-3. itsMegga 
-4. \[Member 4 Name Placeholder]
+3. itsMegga
+4. fyemane
 
 ## Project Overview
 
